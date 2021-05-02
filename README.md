@@ -1,3 +1,4 @@
+![Alt text](https://news.imaeil.com/inc/photos/2020/07/21/2020072114264938857_l.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LeeShinwon/LeeShinwon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
