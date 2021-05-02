@@ -1,1 +1,1 @@
-click the button.
+이것은 새로우 패이지입니다.
