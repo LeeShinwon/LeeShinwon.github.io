@@ -94,13 +94,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shinwon Lee"
+  name             : "SHINWON LEE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a women."
-  location         : "Pohang"
-  email            :
+  bio              : "오늘도 배운다."
+  location         : "HGU in Pohang"
+  email            : "22000539@handong.ac.kr"
   links:
-    - label: "22000539@handong.edu"
+    - label: "22000539@handong.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
